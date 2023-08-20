@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 1ex;
+    background: rgb(248, 186, 248);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.interes{
+    margin-left: 3rem;
+}
+
+.commit{
+    padding-top: 1rem;
+}
